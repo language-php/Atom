@@ -1,0 +1,60 @@
+/* --------------------------------------------------
+Atom Library 3,500 CSS Web Png Icons
+Released under GPL 3.0 for PHP-Fusion V8
+The Icons: Fat Cow Hosting
+Source URL: http://www.fatcow.com
+Coded by: Hien (PHP-Fusion 8 Development Team)
+-----------------------------------------------------*/
+ 
+ [class^="pngicon-"]:before, [class*=" pngicon-"]:before {
+
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+     
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - magrins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased pngicons size */
+  /* font-size: 120%; */
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+.pngicon-small { width:16px; height:auto; }
+.pngicon-medium { width:32px; height:auto; }
+.pngicon-large { width:48px; height:auto; }
+
+
+
+.pngicon-32bit:before{ content:url(icons/32_bit.png); }
+.pngicon-3d_glasses:before{ content:url(icons/3d_glasses.png); }
+.pngicon-64_bit:before{ content:url(icons/64_bit.png); }
+.pngicon-plant:before{ content:url(icons/plant.png); }
+.pngicon-accept:before{ content:url(icons/accept.png); }
+.pngicon-accordion:before{ content:url(icons/accordion.png); }
+.pngicon-account-balances:before{ content:url(icons/account_balances.png); }
+.pngicon-account-functions:before{ content:url(icons/account_functions.png); }
+.pngicon-account-level-filtering:before{ content:url(icons/account_level_filtering.png); }
+.pngicon-acorn:before{ content:url(icons/acorn.png); }
+.pngicon-acoustic-guitar:before{ content:url(icons/acoustic_guitar.png); }
+
+.pngicon-dashboard-small:before{ content:url(icons/dashboard.png); width:16px; height:auto; }
+.pngicon-dashboard-medium:before{ content:url(icons/dashboard.png); width:32px; height:auto; }
+.pngicon-dashboard:before{ content:url(icons/dashboard.png); }
+

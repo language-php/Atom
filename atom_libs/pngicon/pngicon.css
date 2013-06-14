@@ -1,0 +1,260 @@
+/* --------------------------------------------------
+Atom Library 3,500 CSS Web Png Icons
+Released under GPL 3.0 for PHP-Fusion V8
+The Icons: Fat Cow Hosting
+Source URL: http://www.fatcow.com
+Coded by: Hien (PHP-Fusion 8 Development Team)
+-----------------------------------------------------*/
+ 
+ [class^="pngicon-"]:before, [class*=" pngicon-"]:before {
+
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: block;
+  margin-right:10px;
+  float:left;
+  text-decoration: inherit;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+     
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - magrins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased pngicons size */
+  /* font-size: 120%; */
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+.pngicon-32bit:before{ content:url(icons16/32_bit.png);  }
+.pngicon-3d_glasses:before{ content:url(icons16/3d_glasses.png); }
+.pngicon-64_bit:before{ content:url(icons16/64_bit.png); }
+.pngicon-plant:before{ content:url(icons16/plant.png); }
+.pngicon-accept:before{ content:url(icons16/accept.png); }
+.pngicon-accordion:before{ content:url(icons16/accordion.png); }
+.pngicon-account-balances:before{ content:url(icons16/account_balances.png); }
+.pngicon-account-functions:before{ content:url(icons16/account_functions.png); }
+.pngicon-account-level-filtering:before{ content:url(icons16/account_level_filtering.png); }
+.pngicon-acorn:before{ content:url(icons16/acorn.png); }
+.pngicon-acoustic-guitar:before{ content:url(icons16/acoustic_guitar.png); }
+.pngicon-action-log:before{ content:url(icons16/action_log.png); }
+.pngicon-active-session:before{ content:url(icons16/active_sessions.png); }
+.pngicon-add-dns-zone:before{ content:url(icons16/add_dns_zone.png); }
+.pngicon-add-package:before{ content:url(icons16/add_package.png); }
+.pngicon-add:before{ content:url(icons16/add.png); }
+.pngicon-addon_domains:before{ content:url(icons16/addon_domains.png); }
+.pngicon-address-bar-green:before{ content:url(icons16/address_bar_green.png); }
+.pngicon-address-bar-lock:before{ content:url(icons16/address_bar_lock.png); }
+.pngicon-address-bar-red:before{ content:url(icons16/address_bar_red.png); }
+.pngicon-address-bar-yellow:before{ content:url(icons16/address_bar_yellow.png); }
+.pngicon-address-bar:before{ content:url(icons16/address_bar.png); }
+.pngicon-administrator:before{ content:url(icons16/administrator.png); }
+.pngicon-advertising:before{ content:url(icons16/advertising.png); }
+.pngicon-agp:before{ content:url(icons16/agp.png); }
+.pngicon-aim-messenger:before{ content:url(icons16/aim_messenger.png); }
+.pngicon-alarm-bell:before{ content:url(icons16/alarm_bell.png); }
+.pngicon-align-above:before{ content:url(icons16/align_above.png); }
+.pngicon-align-center:before{ content:url(icons16/align_center.png); }
+.pngicon-align-compact:before{ content:url(icons16/align_compact.png); }
+.pngicon-align-left:before{ content:url(icons16/align_left.png); }
+.pngicon-align-middle:before{ content:url(icons16/align_middle.png); }
+.pngicon-align-none:before{ content:url(icons16/align_none.png); }
+.pngicon-align-right:before{ content:url(icons16/align_right.png); }
+.pngicon-alitalk:before{ content:url(icons16/alitalk.png); }
+.pngicon-all-right-reserved:before{ content:url(icons16/all_right_reserved.png); }
+.pngicon-american-express:before{ content:url(icons16/american_express.png); }
+.pngicon-anchor:before{ content:url(icons16/anchor.png); }
+.pngicon-android-phone-protect:before{ content:url(icons16/android_phone_protect.png); }
+.pngicon-android:before{ content:url(icons16/android.png); }
+.pngicon-angel:before{ content:url(icons16/angel.png); }
+.pngicon-anonymous-ftp-controls:before{ content:url(icons16/anonymous_ftp_controls.png); }
+.pngicon-anti-xss:before{ content:url(icons16/anti_xss.png); }
+.pngicon-aol-mail:before{ content:url(icons16/aol_mail.png); }
+.pngicon-aol-messenger:before{ content:url(icons16/aol_messenger.png); }
+.pngicon-apache-handlers:before{ content:url(icons16/apache_handlers.png); }
+.pngicon-apple-corp:before{ content:url(icons16/apple_corp.png); }
+.pngicon-apple-half:before{ content:url(icons16/apple_half.png); }
+.pngicon-apple:before{ content:url(icons16/apple.png); }
+.pngicon-application-add:before{ content:url(icons16/application_add.png); }
+.pngicon-application-cascade:before{ content:url(icons16/application_cascade.png); }
+.pngicon-application-control-bar:before{ content:url(icons16/application_control_bar.png); }
+.pngicon-application-delete:before{ content:url(icons16/application_delete.png); }
+.pngicon-application-double:before{ content:url(icons16/application_double.png); }
+.pngicon-application-edit:before{ content:url(icons16/application_edit.png); }
+.pngicon-application-error:before{ content:url(icons16/application_error.png); }
+.pngicon-application-form-add:before{ content:url(icons16/application_form_add.png); }
+.pngicon-application-form-delete:before{ content:url(icons16/application_form_delete.png); }
+.pngicon-application-form-edit:before{ content:url(icons16/application_form_edit.png); }
+.pngicon-application-form-magnify:before{ content:url(icons16/application_form_magnify.png); }
+.pngicon-application-form:before{ content:url(icons16/application_form.png); }
+.pngicon-application-form-storage:before{ content:url(icons16/application_form_storage.png); }
+.pngicon-application-get:before{ content:url(icons16/application_get.png); }
+.pngicon-application-go:before{ content:url(icons16/application_go.png); }
+.pngicon-application-home:before{ content:url(icons16/application_home.png); }
+.pngicon-application-key:before{ content:url(icons16/application_key.png); }
+.pngicon-application-lightning:before{ content:url(icons16/application_lightning.png); }
+.pngicon-application-link:before{ content:url(icons16/application_link.png); }
+.pngicon-application-osx-terminal:before{ content:url(icons16/application_osx_terminal.png); }
+.pngicon-application-put:before{ content:url(icons16/application_put.png); }
+.pngicon-application-side-boxes:before{ content:url(icons16/application_side_boxes.png); }
+.pngicon-application-side-contract:before{ content:url(icons16/application_side_contract.png); }
+.pngicon-application-side-expand:before{ content:url(icons16/application_side_expand.png); }
+.pngicon-application-side-list:before{ content:url(icons16/application_side_list.png); }
+.pngicon-application-side-tree:before{ content:url(icons16/application_side_tree.png); }
+.pngicon-application-split:before{ content:url(icons16/application_side_split.png); }
+.pngicon-application-tile-horizontal:before{ content:url(icons16/application_tile_horizontal.png); }
+.pngicon-application-tile-vertical:before{ content:url(icons16/application_tile_vertical.png); }
+.pngicon-application-view-columns:before{ content:url(icons16/application_view_columns.png); }
+.pngicon-application-view-detail:before{ content:url(icons16/application_view_detail.png); }
+.pngicon-application-view-gallery:before{ content:url(icons16/application_view_gallery.png); }
+.pngicon-application-view-icons:before{ content:url(icons16/application_view_icons.png); }
+.pngicon-application-view-list:before{ content:url(icons16/application_view_list.png); }
+.pngicon-application-view-tile:before{ content:url(icons16/application_view_tile.png); }
+.pngicon-application-application-xp:before{ content:url(icons16/application_application_xp.png); }
+.pngicon-application-xp-terminal:before{ content:url(icons16/application_xp_terminal.png); }
+.pngicon-arch-linux:before{ content:url(icons16/arch_linux.png); }
+.pngicon-areachart:before{ content:url(icons16/areachart.png); }
+.pngicon-arrow-branch:before{ content:url(icons16/arrow_branch.png); }
+.pngicon-arrow-divide:before{ content:url(icons16/arrow_divide.png); }
+.pngicon-arrow-down:before{ content:url(icons16/arrow_down.png); }
+.pngicon-arrow-in:before{ content:url(icons16/arrow_in.png); }
+.pngicon-arrow-inout:before{ content:url(icons16/arrow_inout.png); }
+.pngicon-arrow-join:before{ content:url(icons16/arrow_join.png); }
+.pngicon-arrow-left:before{ content:url(icons16/arrow_left.png); }
+.pngicon-arrow-merge:before{ content:url(icons16/arrow_merge.png); }
+.pngicon-arrow-out:before{ content:url(icons16/arrow_out.png); }
+.pngicon-arrow-redo:before{ content:url(icons16/arrow_redo.png); }
+.pngicon-arrow-refresh:before{ content:url(icons16/arrow_refresh.png); }
+.pngicon-arrow-refresh-small:before{ content:url(icons16/arrow_refresh_small.png); }
+.pngicon-arrow-repeat:before{ content:url(icons16/arrow_repeat.png); }
+.pngicon-arrow-repeat-once:before{ content:url(icons16/repeat_once.png); }
+.pngicon-arrow-right:before{ content:url(icons16/arrow_right.png); }
+.pngicon-arrow-rotate-anticlockwise:before{ content:url(icons16/arrow_rotate_anticlockwise.png); }
+.pngicon-arrow-rotate-clockwise:before{ content:url(icons16/arrow_rotate_clockwise.png); }
+.pngicon-arrow-switch:before{ content:url(icons16/arrow_switch.png); }
+.pngicon-arrow-turn-left:before{ content:url(icons16/arrow_turn_left.png); }
+.pngicon-arrow-turn-right:before{ content:url(icons16/arrow_turn_right.png); }
+.pngicon-arrow-undo:before{ content:url(icons16/arrow_undo.png); }
+.pngicon-arrow-up:before{ content:url(icons16/arrow_up.png); }
+.pngicon-artwork:before{ content:url(icons16/artwork.png); }
+.pngicon-ask-and-answer:before{ content:url(icons16/ask_and_answer.png); }
+.pngicon-asterisk-orange:before{ content:url(icons16/asterisk_orange.png); }
+.pngicon-asterisk-yellow:before{ content:url(icons16/asterisk_yellow.png); }
+.pngicon-at-sign:before{ content:url(icons16/at_sign.png); }
+.pngicon-atm:before{ content:url(icons16/atm.png); }
+.pngicon-attach:before{ content:url(icons16/attach.png); }
+.pngicon-attributes-display:before{ content:url(icons16/attributes_display.png); }
+.pngicon-attribution:before{ content:url(icons16/attribution.png); }
+.pngicon-auction-hammer-gavel:before{ content:url(icons16/auction_hammer_gavel.png); }
+.pngicon-autoresponders:before{ content:url(icons16/autoresponders.png); }
+.pngicon-autos:before{ content:url(icons16/autos.png); }
+.pngicon-award-star-add:before{ content:url(icons16/award_star_add.png); }
+.pngicon-award-star-bronze-1:before{ content:url(icons16/award_star_bronze_1.png); }
+.pngicon-award-star-bronze-2:before{ content:url(icons16/award_star_bronze_2.png); }
+.pngicon-award-star-bronze-3:before{ content:url(icons16/award_star_bronze_3.png); }
+.pngicon-award-star-delete:before{ content:url(icons16/award_star_delete.png); }
+.pngicon-award-star-gold-1:before{ content:url(icons16/award_star_gold_1.png); }
+.pngicon-award-star-gold-2:before{ content:url(icons16/award_star_gold_2.png); }
+.pngicon-award-star-gold-3:before{ content:url(icons16/award_star_gold_3.png); }
+.pngicon-award-star-silver-1:before{ content:url(icons16/award_star_silver_1.png); }
+.pngicon-award-star-silver-2:before{ content:url(icons16/award_star_silver_2.png); }
+.pngicon-award-star-silver-3:before{ content:url(icons16/award_star_silver_3.png); }
+.pngicon-awstats:before{ content:url(icons16/awstats.png); }
+.pngicon-ax:before{ content:url(icons16/ax.png); }
+.pngicon-baby-bottle:before{ content:url(icons16/baby_bottle.png); }
+.pngicon-backpack:before{ content:url(icons16/backpack.png); }
+.pngicon-backup-manager:before{ content:url(icons16/backup_manager.png); }
+.pngicon-backup-wizard:before{ content:url(icons16/backup_wizard.png); }
+.pngicon-backups:before{ content:url(icons16/backups.png); }
+.pngicon-baggage-cart:before{ content:url(icons16/baggage_cart.png); }
+.pngicon-baggage-cart-box:before{ content:url(icons16/baggage_cart_box.png); }
+.pngicon-balance:before{ content:url(icons16/balance.png); }
+.pngicon-balance-unbalance:before{ content:url(icons16/balance_unbalance.png); }
+.pngicon-ballon:before{ content:url(icons16/ballon.png); }
+.pngicon-baloon:before{ content:url(icons16/baloon.png); }
+.pngicon-baloon-2:before{ content:url(icons16/baloon_2.png); }
+.pngicon-baloon-2-empty:before{ content:url(icons16/baloon_2_empty.png); }
+.pngicon-bamboo:before{ content:url(icons16/bamboo.png); }
+.pngicon-bamboos:before{ content:url(icons16/bamboos.png); }
+.pngicon-bandaid:before{ content:url(icons16/bandaid.png); }
+.pngicon-bank:before{ content:url(icons16/bank.png); }
+.pngicon-barchart:before{ content:url(icons16/barchart.png); }
+.pngicon-barcode:before{ content:url(icons16/barcode.png); }
+.pngicon-barcode-2d:before{ content:url(icons16/barcode_2d.png); }
+
+
+
+.pngicon-book-addresses:before{ content:url(icons16/book_addresses.png); }
+.pngicon-button-picture:before{ content:url(icons16/button_picture.png); }
+
+
+.pngicon-camera-lens:before{ content:url(icons16/camera_lens.png); }
+.pngicon-cards:before{ content:url(icons16/cards.png); }
+.pngicon-ceo:before{ content:url(icons16/ceo.png); }
+
+.pngicon-client-account-template:before{ content:url(icons16/client_account_template.png); }
+.pngicon-color-management:before{ content:url(icons16/color_management.png); }
+.pngicon-color-wheel:before{ content:url(icons16/color_wheel.png); }
+.pngicon-connect:before{ content:url(icons16/connect.png); }
+.pngicon-counter:before{ content:url(icons16/counter.png); }
+
+
+
+.pngicon-dashboard:before{ content:url(icons16/dashboard.png); }
+.pngicon-diagramm:before{ content:url(icons16/diagramm.png); }
+
+.pngicon-drill:before{ content:url(icons16/drill.png); }
+
+.pngicon-global-telecom:before{ content:url(icons16/global_telecom.png); }
+
+
+.pngicon-inbox-slide:before{ content:url(icons16/inbox_slide.png); }
+.pngicon-hat:before{ content:url(icons16/hat.png); }
+
+.pngicon-helmet:before{ content:url(icons16/helmet.png); }
+.pngicon-helmet-mine:before{ content:url(icons16/helment_mine.png); }
+
+.pngicon-latest-visitors:before{ content:url(icons16/latest_visitors.png); }
+
+.pngicon-orbit:before{ content:url(icons16/orbit.png); }
+
+
+.pngicon-panel:before{ content:url(icons16/panel.png); }
+
+.pngicon-peak-cap:before{ content:url(icons16/peak_cap.png); }
+.pngicon-picture:before{ content:url(icons16/picture.png); }
+
+.pngicon-rip:before{ content:url(icons16/rip.png); }
+.pngicon-role:before{ content:url(icons16/role.png); }
+
+.pngicon-scull:before{ content:url(icons16/scull.png); }
+
+.pngicon-session-idle-time:before{ content:url(icons16/session_idle_time.png); }
+
+.pngicon-subdomains:before{ content:url(icons16/subdomains.png); }
+.pngicon-spectrum:before{ content:url(icons16/spectrum.png); }
+
+.pngicon-speedometer:before{ content:url(icons16/speedometer.png); }
+
+.pngicon-terminal:before{ content:url(icons16/terminal.png); }
+.pngicon-user-death:before{ content:url(icons16/user_death.png); }
+
+
+.pngicon-vard:before{ content:url(icons16/vcard.png); }
+
+.pngicon-view-bandwidth-usage:before{ content:url(icons16/view_bandwidth_usage.png); }
+
+.pngicon-wand:before{ content:url(icons16/wand.png); } 
+.pngicon-workspace:before{ content:url(icons16/workspace.png); } 
+
+.pngicon-xfn:before{ content:url(icons16/xfn.png); }
